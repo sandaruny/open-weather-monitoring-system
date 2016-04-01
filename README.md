@@ -53,4 +53,4 @@ Total cost: LKR **12 350**/=
 
 -  MARASINGHE M.M.D.B. [@dhammika-marasinghe](https://github.com/dhammika-marasinghe)
 
--  NANAYAKKARA N.B.U.S.
+-  NANAYAKKARA N.B.U.S. [@sandaryny](https://github.com/sandaruny)
